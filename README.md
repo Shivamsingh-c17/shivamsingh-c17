@@ -7,6 +7,7 @@
 * Looking to collaborate 
 * Ask me anything about website design
 * Fun fact : I play sports like Badminton, Football. I also watch a lot of movies, web series & documentaries
+📷🍕⚽🎮🌏⚡
 <br/>
 
 ## Connect with me
