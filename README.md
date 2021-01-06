@@ -3,7 +3,7 @@
 
 ## 🤵 About Me:
 * I’m currently working on **MrktDB** which is a website that shows data related to US based HedgeFunds
-* I'm a designer (at MrktDB) and work as an independent designer 
+* I'm a designer (at MrktDB & Pitchkrafts)
 * Looking to collaborate 
 * Ask me anything about website design
 * Fun fact : I play sports like Badminton, Football. I also watch a lot of movies, web series & documentaries
