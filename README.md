@@ -36,14 +36,13 @@
 </a
 &nbsp;  
   <a href="https://www.behance.net/shivamsingh_c17/">
-  <img align="left" alt="Shivam's Behance" width="22px" height="22px" src="https://cdn.freebiesupply.com/logos/large/2x/behance-1-logo-png-transparent.png" />
+  <img align="left" alt="Shivam's Behance" width="22px" src="https://cdn.freebiesupply.com/logos/large/2x/behance-1-logo-png-transparent.png" />
 </a>
+&nbsp;
   <a href="https://dribbble.com/ShivZedd">
-  <img align="left" alt="Shivam's Dribble" width="22px" height="22px" src="https://seeklogo.com/images/D/dribbble-logo-143FF96D65-seeklogo.com.png" />
+  <img align="left" alt="Shivam's Dribble" width="22px" src="https://seeklogo.com/images/D/dribbble-logo-143FF96D65-seeklogo.com.png" />
 </a>
 
-<br/>
-<br/>
 <br/>
 
 ### 🎮 Latest Inventions
