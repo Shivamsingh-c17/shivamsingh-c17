@@ -1,6 +1,5 @@
 <h1 align="center">Hi! I'm Shivam  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <p align="center">A designer & developer from India</p>
-<br/>
 
 ## 🤵 About Me:
 * I’m currently working on **MrktDB** which is a website that shows data related to US based HedgeFunds
@@ -37,11 +36,10 @@
 </a
 &nbsp;  
   <a href="https://www.behance.net/shivamsingh_c17/">
-  <img align="left" alt="Shivam's Behance" width="22px" src="https://cdn.freebiesupply.com/logos/large/2x/behance-1-logo-png-transparent.png" />
+  <img align="left" alt="Shivam's Behance" width="22px" height="22px" src="https://cdn.freebiesupply.com/logos/large/2x/behance-1-logo-png-transparent.png" />
 </a>
-&nbsp;  
   <a href="https://dribbble.com/ShivZedd">
-  <img align="left" alt="Shivam's Dribble" width="22px" src="https://seeklogo.com/images/D/dribbble-logo-143FF96D65-seeklogo.com.png" />
+  <img align="left" alt="Shivam's Dribble" width="22px" height="22px" src="https://seeklogo.com/images/D/dribbble-logo-143FF96D65-seeklogo.com.png" />
 </a>
 
 <br/>
