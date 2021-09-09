@@ -43,7 +43,6 @@
   <a href="https://dribbble.com/ShivZedd">
   <img align="left" alt="Shivam's Dribble" width="22px" height="22px" src="https://seeklogo.com/images/D/dribbble-logo-143FF96D65-seeklogo.com.png" />
 </a>
-
 <br/>
 
 ### 🎮 Latest Inventions
