@@ -2,8 +2,8 @@
 <p align="center">A designer & developer from India</p>
 
 ## 🤵 About Me:
-* I’m currently working on **MrktDB** which is a website that shows data related to US based HedgeFunds
-* I'm a designer (at MrktDB & Pitchkrafts)
+* I’m currently working on **eDakshana** which helps receive and donate donations.
+* Created multiple Interfaces (MrktDB, eDakshana, screensculptor)
 * Looking to collaborate 
 * Ask me anything about website design
 * Fun fact : I play sports like Badminton, Football. I also watch a lot of movies, web series & documentaries
