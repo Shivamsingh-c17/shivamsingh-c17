@@ -19,6 +19,10 @@
 <a href="https://twitter.com/Shivamc504">
   <img align="left" alt="Shivam Singh | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
+&nbsp;  
+  <a href="https://www.behance.net/shivamsingh_c17/">
+  <img align="left" alt="Shivam's Behance" width="22px" height="22px" src="https://cdn.freebiesupply.com/logos/large/2x/behance-1-logo-png-transparent.png" />
+</a>
 &nbsp;
 <a href="https://www.youtube.com/channel/UCO9N1zJLui_FAadw9CF3Mdw">
   <img align="left" alt="Shivam's YouTube" width="22px" src="https://github.com/peterthehan/peterthehan/blob/master/assets/youtube.svg" />
@@ -39,10 +43,7 @@
 <a href="https://www.linkedin.com/in/shivam-singh-bb9bb818a/">
   <img align="left" alt="Shivam's LinkdIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a
-&nbsp;  
-  <a href="https://www.behance.net/shivamsingh_c17/">
-  <img align="left" alt="Shivam's Behance" width="22px" height="22px" src="https://cdn.freebiesupply.com/logos/large/2x/behance-1-logo-png-transparent.png" />
-</a>
+
 
 <br/>
 
