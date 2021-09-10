@@ -28,6 +28,10 @@
   <img align="left" alt="Shivam's Facebook" width="22px" src="https://github.com/peterthehan/peterthehan/blob/master/assets/facebook.svg" />
 </a>
 &nbsp;
+  <a href="https://dribbble.com/ShivZedd">
+  <img align="left" alt="Shivam's Dribble" width="22px" height="22px" src="https://seeklogo.com/images/D/dribbble-logo-143FF96D65-seeklogo.com.png" />
+</a>
+&nbsp;
 <a href="https://open.spotify.com/user/fiz633kh049s7ejhk5r6erf52">
   <img align="left" alt="Shivam's spotify" width="22px" src="https://github.com/peterthehan/peterthehan/blob/master/assets/spotify.svg" />
 </a>
@@ -39,10 +43,7 @@
   <a href="https://www.behance.net/shivamsingh_c17/">
   <img align="left" alt="Shivam's Behance" width="22px" height="22px" src="https://cdn.freebiesupply.com/logos/large/2x/behance-1-logo-png-transparent.png" />
 </a>
-&nbsp;
-  <a href="https://dribbble.com/ShivZedd">
-  <img align="left" alt="Shivam's Dribble" width="22px" height="22px" src="https://seeklogo.com/images/D/dribbble-logo-143FF96D65-seeklogo.com.png" />
-</a>
+
 <br/>
 
 ### 🎮 Latest Inventions
