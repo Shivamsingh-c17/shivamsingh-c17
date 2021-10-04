@@ -25,7 +25,7 @@
 </a>
 &nbsp;
 <a href="https://www.youtube.com/channel/UCO9N1zJLui_FAadw9CF3Mdw">
-  <img align="left" alt="Shivam's YouTube" width="22px" src="https://github.com/peterthehan/peterthehan/blob/master/assets/youtube.svg" />
+  <img align="left" alt="Shivam's YouTube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/640px-YouTube_full-color_icon_%282017%29.svg.png" />
 </a>
 &nbsp;
 <a href="https://www.facebook.com/shivamsinghc504/">
