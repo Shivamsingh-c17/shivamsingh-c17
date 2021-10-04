@@ -29,7 +29,7 @@
 </a>
 &nbsp;
 <a href="https://www.facebook.com/shivamsinghc504/">
-  <img align="left" alt="Shivam's Facebook" width="22px" src="https://github.com/peterthehan/peterthehan/blob/master/assets/facebook.svg" />
+  <img align="left" alt="Shivam's Facebook" width="22px" src="https://www.google.com/search?q=fACEBOOK+IMAGES&rlz=1C1VDKB_enIN965IN965&sxsrf=AOaemvLeV0Yc14becispTmP-NFWu7iLh0w:1633325511972&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiB3sXXg7DzAhVSWX0KHQ9QAlEQ_AUoAXoECAEQAw&biw=1536&bih=714&dpr=1.25#imgrc=dY-l929ZJQKbIM" />
 </a>
 &nbsp;
   <a href="https://dribbble.com/ShivZedd">
@@ -37,7 +37,7 @@
 </a>
 &nbsp;
 <a href="https://open.spotify.com/user/fiz633kh049s7ejhk5r6erf52">
-  <img align="left" alt="Shivam's spotify" width="22px" src="https://github.com/peterthehan/peterthehan/blob/master/assets/spotify.svg" />
+  <img align="left" alt="Shivam's spotify" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/1024px-Spotify_logo_without_text.svg.png" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/shivam-singh-bb9bb818a/">
