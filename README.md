@@ -2,7 +2,7 @@
 <p align="center">A designer & developer from India</p>
 
 ## 🤵 About Me:
-* I’m currently working on **eDakshana** which helps receive and donate donations.
+* I’m currently working on **Propvision**, **Broker Network** as an Intern at agprop.
 * Created multiple Interfaces (MrktDB, eDakshana, screensculptor)
 * Looking to collaborate 
 * Ask me anything about website design
